@@ -1,5 +1,12 @@
-# 💫 About Me:
-I’m Tanish Sharma, a Computer Science and Engineering student with a strong interest in **Data Analytics, Machine Learning, and Artificial Intelligence**. I enjoy solving problems, working with data, and exploring technologies that can turn ideas into practical solutions.<br><br>I primarily work with **Python, SQL, C++, C, and Java**, along with tools such as **Pandas, NumPy, Scikit-learn, Power BI, and MySQL**. I’m particularly interested in data analysis, visualization, machine learning, and Generative AI, and I’m continuously working on strengthening my technical and problem-solving skills.<br><br>I believe in learning by doing, experimenting with new technologies, and improving with every challenge. 🚀<br>
+<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+👋 Hi, I’m **Tanish Sharma** — a 🎓 Computer Science and Engineering student passionate about **📊 Data Analytics, 🤖 Machine Learning, and 🧠 Artificial Intelligence**. I enjoy 💡 solving problems, exploring data, and turning ideas into **🚀 practical and meaningful solutions** through technology.
+
+💻 I work with **🐍 Python, 🗄️ SQL, ⚡ C++, 🔵 C, and ☕ Java**, along with powerful tools such as **🐼 Pandas, 🔢 NumPy, 🤖 Scikit-learn, 📈 Power BI, and 🛢️ MySQL**. I’m especially interested in **📊 Data Analysis, 📉 Data Visualization, 🤖 Machine Learning, and ✨ Generative AI**, and I’m constantly exploring new concepts and technologies to expand my skills.
+
+🛠️ I believe the best way to learn is by **🔨 building, 🧪 experimenting, and solving 🌍 real-world problems**. Every challenge is an opportunity to 📚 learn something new, 📈 improve my skills, and become a better developer.
+
+✨ **Curious by nature • Driven by learning • Focused on building • Always improving 🚀**
 
 
 ## 🌐 Socials:
